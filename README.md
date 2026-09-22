@@ -3,15 +3,15 @@
 Repositório com exercícios simples de Python, focados em **operações básicas**, **entrada e saída de dados**, **formatação de saída** e **lógica elementar**.
 
 ## Índice
-[a) Troca de valores](#a_exercicio.py)
-[b) Qual o meu lucro](#b_exercicio.py)
-[c) Idade em meses e dias](#c_exercicio.py)
-[d) Volume do cilindro](#d_exercicio.py)
-[e) Temperatura em KFC](#e_exercicio.py)
-[f) Passou ou reprovou?](#f_exercicio.py)
-[g) Qual o valor do produto final?](#g_exercicio.py)
-[h) Quero receber mais...](#h_exercicio.py)
-[i) Faturamento do show](#i_exercicio.py)
+[a) Troca de valores]
+[b) Qual o meu lucro]
+[c) Idade em meses e dias]
+[d) Volume do cilindro]
+[e) Temperatura em KFC]
+[f) Passou ou reprovou?]
+[g) Qual o valor do produto final?]
+[h) Quero receber mais...]
+[i) Faturamento do show]
 
 ## a) Troca de valores: 
 Lê dois números inteiros e troca seus valores entre si.
